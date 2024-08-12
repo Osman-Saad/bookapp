@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">BookApp</string>
+    <string name="title">Books</string>
+    <string name="want_to_read">want to read</string>
+    <string name="setting_clicked">Setting Clicked</string>
+    <string name="profile_clicked">Profile Clicked</string>
+    <string name="search_clicked">Search Clicked</string>
+    <string name="favorite_clicked">Favorite Clicked</string>
+    <string name="review_clicked">Review Clicked</string>
+    <string name="notification_clicked">Notification Clicked</string>
 </resources>
